@@ -14,7 +14,7 @@ This is an app is creatin my first ASP.NET Core MVC Web Application
 
 ## 2. Step By Step Directions ("Happy Path")
 
-#Your MVC Web Application should contain the following:
+### Your MVC Web Application should contain the following:
 * Add the MVC Middleware and include template routing (the route must be explicitly defined)
 * Only 1 controller. The home controller, with 3 actions (2 Index, and 1 Results)
 	- Remember the difference between HTTPGET and HTTPPOST
@@ -38,7 +38,7 @@ This is an app is creatin my first ASP.NET Core MVC Web Application
 * Create a static method within this model named GetPersons that brings in the range of years, and returns List<TimePerson>.
 * Create the internal logic to read in the file, filter the data from the given inputted range using LINQ queries and Lambda expressions, and return the final filtered list of persons.
 
-# Hints
+### Hints
 * Using what you know about reading in external files, and the System.File library, convert the CSV file provided into readable data that can be used within the program. CSV files are delimited using commas. Use what you know from Class 03, and read in the data using the proper delimiter.
 * Traversing through the file, line by line, convert each line item of the CSV to a TimePerson object and add it to the collection.
 * Using LINQ queries and Lambda expressions, filter out list given the range inputted. You code should take into account a few edge cases of inputting an invalid range (e.g. 2001 - 1985), as well as any other reasonable edge cases.
