@@ -4,10 +4,9 @@ Lab 40111 My First MVC App
 
 Developer: Andrew Hinojosa
 
-- Contributors:???
-- Collaborator: ???
+- Contributors/Collaborator: Ryna Truong
 
-Actual Time To Complete: ???
+Actual Time To Complete: 8 Hours
 
 ## 1. Summary
 This is an app is creatin my first ASP.NET Core MVC Web Application
