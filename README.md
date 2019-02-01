@@ -45,4 +45,5 @@ This is an app is creatin my first ASP.NET Core MVC Web Application
 * Use the debugger to get a visible look at what is being imported and confirm the format. This will help you visualize what you need to do.
 
 ## 3. Visual Output 
-![Lab40111](???)
+![Lab40111](https://github.com/drewsview34/Lab40111-MyFirstMVCApp/blob/master/Assets/Index.PNG)
+![Lab40111](https://github.com/drewsview34/Lab40111-MyFirstMVCApp/blob/master/Assets/Results.PNG)
